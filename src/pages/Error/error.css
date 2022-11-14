@@ -1,0 +1,21 @@
+
+.error{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+}
+
+.error h1{
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.error p{
+    font-style: italic;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
